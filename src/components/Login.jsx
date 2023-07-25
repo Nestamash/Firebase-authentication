@@ -43,7 +43,7 @@ import { auth } from '../Config/firebase';
         </form>
         <div className='links-wrapper'>
             <NavLink to={'/forgot-password'}>Forgot password?</NavLink>
-            <NavLink to={'/signup'}>Create an account.</NavLink>
+            <NavLink to={'/signup'}>Create an account/signUp.</NavLink>
         </div>
      </div>
      </>
